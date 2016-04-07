@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="14F27" minimumToolsVersion="Xcode 4.3">
+    <entity name="DSE" representedClassName="DSE" syncable="YES">
+        <attribute name="accaddress1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="accaddress2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="accarea" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="acccity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="accdistrict" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="accountname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="accpanchayat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="accpincode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="accstate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="acctaluka" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="application" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="area" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bodytype" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="campaign" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cellnumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="conatctaddress2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactaddress1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactpan" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactpincode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contarea" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contcity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contdistrict" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contpanchayat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contstate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="conttaluka" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="customertype" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="district" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="financier" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lob" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mainphnumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mmgeography" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="panchayat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pincode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ppl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="quantity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="site" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sourceofcontact" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="state" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="taluka" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tmlfleetsize" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalfleetsize" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="usagecategory" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vc" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DSM" representedClassName="DSM" syncable="YES">
+        <attribute name="accaddress1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="accaddress2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="accarea" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="acccity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="accdistrict" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="accountname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="accpanchayat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="accpincode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="accstate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="acctaluka" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="application" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="area" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bodytype" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="campaign" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cellnumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="conatctaddress2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactaddress1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactpan" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactpincode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contarea" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contcity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contdistrict" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contpanchayat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contstate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="conttaluka" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="customertype" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="district" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="financier" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lob" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mainphnumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="mmgeography" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="panchayat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pincode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ppl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="quantity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="site" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sourceofcontact" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="state" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="taluka" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tmlfleetsize" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalfleetsize" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="usagecategory" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vc" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="DSE" positionX="-63" positionY="-18" width="128" height="780"/>
+        <element name="DSM" positionX="-54" positionY="126" width="128" height="780"/>
+    </elements>
+</model>
